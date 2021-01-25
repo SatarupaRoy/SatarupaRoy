@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/c-23cc59?&style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/python-2d043f?&style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/javascript-23599C?&style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/php-5382a1?&style=for-the-badge&logo=java&logoColor=white")
 
 ### Social
 
