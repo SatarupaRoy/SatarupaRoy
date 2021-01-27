@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Quora-d00000?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Satarupa-Roy-9)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/satarupa.roy.96)
 [![](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15089748/satarupa-roy)
-<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>(https://www.hackerrank.com/sataruparoy01121)
-
+<img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth%20-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/>
 ### OS
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
