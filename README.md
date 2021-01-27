@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/fedora-0000d0?style=for-the-badge&logo=fedora&logoColor=white)
+
+![Satarupa's github stats](https://github-readme-stats.vercel.app/api?username=sataruparoy&count_private=true)
